@@ -22,7 +22,7 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
+    inquirer
 }
 
 // function call to initialize program
