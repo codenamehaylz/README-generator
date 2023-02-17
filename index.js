@@ -34,7 +34,8 @@ function init() {
     inquirer.prompt(questions)
     .then((response) => {
         const markdown = generateMarkdown(response);
-        writeToFile('gen-README.md', markdown);
+        const filePath = path.join(__dirname, "gen-README.md")
+        writeToFile(filePath, markdown);
     });
 }
 
