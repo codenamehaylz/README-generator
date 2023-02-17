@@ -25,6 +25,8 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    fs.appendFile(fileName, data, (error) =>
+    error ? console.error(error) : console.log("Your README filed has been created!"))
 }
 
 // function to initialize program
