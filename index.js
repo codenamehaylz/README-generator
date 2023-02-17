@@ -29,7 +29,11 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
+    inquirer.prompt(questions)
+    .then((response) => {
+        const readme = generateMarkdown(response);
+        writeToFile('projectREADME.md', readme);
+    });
 }
 
 // function call to initialize program
