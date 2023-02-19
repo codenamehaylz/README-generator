@@ -1,26 +1,9 @@
 # README Generator
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
 The README Generator uses node.js and the inquirer module to prompt the user with questions about their project, then uses the answers to create a professional README markdown file.
 
-[Click here]() to see a demonstration video.
-
----
-
-## Table of Contents
-* [Installation](#installation)
-
-* [Usage](#usage)
-
-* [License](#license)
-
-* [Contributing](#contributing)
-
-* [Tests](#tests)
-
-* [Questions](#questions)
+[Click here](https://drive.google.com/file/d/1fZ-JxJcqmdXbrdkEVh7fKaaD5UWLKid4/view) to see a demonstration video.
 
 ---
 
@@ -33,13 +16,4 @@ You will be prompted with several questions about your project, one at a time. S
 ## License
 MIT License
 
-## Contributing
-N/A
-
-## Tests
-N/A
-
-## Questions
-If you have any questions, please email: hb_060492@hotmail.co.uk
-
-[My GitHub Profile](https://www.github.com/codenamehaylz)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
