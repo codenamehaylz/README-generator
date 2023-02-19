@@ -66,6 +66,8 @@ ${getBadge(data.license)}
 ## Description
 ${data.description}
 
+---
+
 ## Table of Contents
 * [Installation](#installation)
 
@@ -79,6 +81,7 @@ ${data.description}
 
 * [Questions](#questions)
 
+---
 
 ## Installation
 ${data.install}
@@ -96,9 +99,9 @@ ${data.contribute}
 ${data.testing}
 
 ## Questions
-${data.github}
+[My GitHub Profile](https://www.github.com/${data.github})
 
-${data.email}
+If you have any questions, please email: ${data.email}
 `;
 }
 
