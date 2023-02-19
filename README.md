@@ -17,3 +17,7 @@ You will be prompted with several questions about your project, one at a time. S
 MIT License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Credits
+
+License badges from [lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba)
