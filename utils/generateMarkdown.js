@@ -99,9 +99,9 @@ ${data.contribute}
 ${data.testing}
 
 ## Questions
-[My GitHub Profile](https://www.github.com/${data.github})
-
 If you have any questions, please email: ${data.email}
+
+[My GitHub Profile](https://www.github.com/${data.github})
 `;
 }
 
